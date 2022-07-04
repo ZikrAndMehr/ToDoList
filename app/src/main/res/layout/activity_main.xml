@@ -73,8 +73,8 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         ads:adSize="BANNER"
-        ads:adUnitId="ca-app-pub-7270738426543727/5772971120"
-        ads:layout_constraintBottom_toBottomOf="parent"
+        ads:adUnitId="--------------------------------------"
+        ads:layout_constraintBottom_toBottomOf="parent"     
         ads:layout_constraintEnd_toEndOf="parent"
         ads:layout_constraintStart_toStartOf="parent"
         ads:layout_constraintTop_toBottomOf="@+id/flMa" />
