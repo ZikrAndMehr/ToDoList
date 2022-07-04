@@ -114,7 +114,7 @@ public class MainActivity extends AppCompatActivity{
 
     public static void loadNativeAd(Context context, TemplateView myTemplate) {
         MobileAds.initialize(context);
-        AdLoader adLoader = new AdLoader.Builder(context, "ca-app-pub-7270738426543727/6605054107")
+        AdLoader adLoader = new AdLoader.Builder(context, "--------------------------------------")
                 .forNativeAd(new NativeAd.OnNativeAdLoadedListener() {
                     @Override
                     public void onNativeAdLoaded(@NonNull NativeAd nativeAd) {
